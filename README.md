@@ -1,4 +1,4 @@
-# JavaCRUD — Form Siswa
+# JFRame- JavaCRUD — Form Siswa
 
 Aplikasi Swing CRUD sederhana untuk data siswa, dibangun dengan Java + Maven.
 Kompatibel dengan **IntelliJ IDEA** (Community maupun Ultimate).
